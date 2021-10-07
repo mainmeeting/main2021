@@ -1,0 +1,126 @@
+<html ng-app="neurologic">
+
+<head>
+  <title>MAIN: Maths, Artifical Intelligence and Neuroscience</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <script type="text/javascript" src="assets/js/angular.min.js"></script>
+  <script type="text/javascript" src="app.module.js"></script>
+  <script type="text/javascript" src="home/home.module.js"></script>
+  <script type="text/javascript" src="home/home.component.js"></script>
+  <script type="text/javascript" src="program/program.module.js"></script>
+  <script type="text/javascript" src="program/program.component.js"></script>
+
+  <style>
+<!--      img {-->
+<!--          border-radius: 100%;-->
+<!--      }-->
+  .jumbotron {
+      background-color: #1F618D;
+      color: #fff;
+      padding: 10px 25px;
+      font-family: Montserrat, sans-serif;
+  }
+  .navbar {
+      margin-bottom: 0;
+      background-color: #1F618D;
+      z-index: 9999;
+      border: 0;
+      font-size: 20px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 4px;
+      border-radius: 0;
+      font-family: Montserrat, sans-serif;
+  }
+  .navbar li a, .navbar .navbar-brand {
+      color: #1F618D !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #f4511e !important;
+      background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #fff !important;
+  }
+  </style>
+</head>
+
+<body>
+    <div class="jumbotron text-center">
+        <div class="row">
+            <div class="col-lg-2 col-md-3 col-sm-3">
+                <img src="assets/img/flower_seed_arrangement.png" class="img-circle" border-radius="100%" width="150pt">
+                    </div>
+            <div class="col-lg-10 col-md-9 col-sm-8">
+                <h1 class="display-4">NeuroLogic</h1>
+                <p class="lead">Maths, AI and Neuroscience</p>
+            </div>
+        </div>
+    </div>
+<!--
+  <div class="container d-none d-md-block">
+    <span class="row" style="margin: 10px 0">
+      <span class="col-md-2">
+        <img src="assets/img/exp_flower_seed.png" width="100pt">
+      </span>
+      <span class="col-md-10">
+        <span class="d-lg-none d-block">
+          <h1 class="display-4">Neurologic</h1>
+          <p class="lead">Maths, AI and Neuroscience</p>
+        </span>
+        <span class="d-none d-lg-block">
+          <h1 class="display-4">MAIN</h1>
+          <p class="lead">Maths, AI and Neuroscience.</p>
+        </span>
+      </span>
+    </span>
+  </div>
+-->
+<nav class="navbar navbar-expand-sm navbar-light bg-transparent">
+    <div class="container">
+      <span class="d-md-none d-block">
+        <a class="navbar-brand" href="#">MAIN</a>
+      </span>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">
+              <i class="fa fa-home"></i> Home <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="program-tab" data-toggle="tab" href="#program" role="tab" aria-controls="program" aria-selected="true">
+              <i class="fa fa-file"></i> Program
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container" style="margin-top:2px">
+    <div class="tab-content" id="nav-tabContent">
+      <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home">
+        <home class="panel"></home>
+      </div>
+      <div class="tab-pane fade" id="Program" role="tabpanel" aria-labelledby="program">
+        <contact class="panel"></program>
+      </div>
+      </div>
+    </div>
+  </div>
+
+  <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+  <script type="text/javascript" src="assets/js/popper.min.js"></script>
+  <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+</body>
+
+</html>
