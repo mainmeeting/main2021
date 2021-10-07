@@ -1,9 +1,5 @@
 // Define the `CVApp` module
-angular.module('neurologic', [
+angular.module('main', [
   'home',
-  'publications',
-  'contact',
-  'people',
-  'blog',
-  'videos'
+  'program'
 ]);
