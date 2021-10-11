@@ -1,2 +1,2 @@
-// Define the `contact` module
-angular.module('contact', []);
+// Define the `program` module
+angular.module('program', []);

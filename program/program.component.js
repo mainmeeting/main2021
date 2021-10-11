@@ -1,6 +1,6 @@
-// Register the `contact` component on the `contact` module,
+// Register the `program` component on the `program` module,
 angular.
-module('contact').
-component('contact', {
-    templateUrl: 'contact/contact.template.html',
+module('program').
+component('program', {
+    templateUrl: 'program/program.template.html',
 });
