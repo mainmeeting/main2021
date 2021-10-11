@@ -1,2 +1,2 @@
-// Define the `home` module
+// Define the `organizers` module
 angular.module('organizers', []);
