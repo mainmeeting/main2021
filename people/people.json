@@ -13,7 +13,7 @@
     "affiliation": "The Pennsylvania State University, PA, US",
     "title" : "TBA",
     "url" : "http://personal.psu.edu/vui1/",
-    "image_src": "assets/img/vladimir_itskov.jpeg"
+    "image_src": "assets/img/vladimir_itskov.jpeg",
     "field": "Topology"
 },
 {
@@ -22,7 +22,7 @@
     "affiliation": "University of California, Berkeley, CL, UA",
     "title" : "TBA",
     "url" : "https://people.eecs.berkeley.edu/~yima/",
-    "image_src": "assets/img/YiMa.jpeg"
+    "image_src": "assets/img/YiMa.jpeg",
     "field": "AI"
 },
 {
@@ -31,7 +31,7 @@
     "affiliation": "University of Strasbourg, France",
     "title" : "TBA",
     "url" : "https://www.usias.fr/en/fellows/fellows-2020/demian-battaglia/",
-    "image_src": "assets/img/Damian_Battaglia.jpg"
+    "image_src": "assets/img/Damian_Battaglia.jpg",
     "field": "Neuroscience"
 },
 {
@@ -40,7 +40,7 @@
     "affiliation": "Indian Institute of Sciences, Bangalore, India",
     "title" : "TBA",
     "url" : "http://mbu.iisc.ernet.in/~rngrp/",
-    "image_src": "assets/img/Rishi.jpeg"
+    "image_src": "assets/img/Rishi.jpeg",
     "field": "Neuroscience"
 },
 {
@@ -49,7 +49,7 @@
     "affiliation": "The Hebrew University, Jerusalem, Israel",
     "title" : "TBA",
     "url" : "https://scholars.huji.ac.il/jbc/people/dr-mickey-london",
-    "image_src": "assets/img/mickey_london.png"
+    "image_src": "assets/img/mickey_london.png",
     "field": "Neuroscience"
 },
 {
@@ -58,7 +58,7 @@
     "affiliation": "Cold Spring Harbor Laboratory, US",
     "title" : "TBA",
     "url" : "http://brainarchitecture.org/",
-    "image_src": "assets/img/Partha_Mitra.jpeg"
+    "image_src": "assets/img/Partha_Mitra.jpeg",
     "field": "Neuroscience"
 },
 {
@@ -67,7 +67,7 @@
     "affiliation": "University of Aberdeen, Scotland, UK",
     "title" : "TBA",
     "url" : "https://www.abdn.ac.uk/ncs/profiles/r.levi/",
-    "image_src": "assets/img/Ran_Levi.jpeg"
+    "image_src": "assets/img/Ran_Levi.jpeg",
     "field": "Topology"
 },
 {
@@ -76,7 +76,7 @@
     "affiliation": "Duke University, US",
     "title" : "TBA",
     "url" : "https://www.neuro.duke.edu/people/faculty/anita-disney",
-    "image_src": "assets/img/Anita_Disney.jpeg"
+    "image_src": "assets/img/Anita_Disney.jpeg",
     "field": "Neuroscience"
 },
 {
@@ -85,7 +85,7 @@
     "affiliation": "Barnard College, Columbia University, NY, US",
     "title" : "TBA",
     "url" : "https://gabriellejgutierrez.com/",
-    "image_src": "assets/img/gabrielle.jpeg"
+    "image_src": "assets/img/gabrielle.jpeg",
     "field": "Neuroscience"
 },
 {
@@ -94,7 +94,7 @@
     "affiliation": " Helsinki Institute of Life Science HiLIFE",
     "title" : "TBA",
     "url" : "https://researchportal.helsinki.fi/en/persons/nelson-totah",
-    "image_src": "assets/img/nelson_totah.jpeg"
+    "image_src": "assets/img/nelson_totah.jpeg",
     "field": "Neuroscience"
 },
 {
@@ -103,7 +103,7 @@
     "affiliation": " Weizmann Institute of Science, Rehovat, Israel",
     "title" : "TBA",
     "url" : "https://www.wisdom.weizmann.ac.il/~yonina/YoninaEldar/",
-    "image_src": "assets/img/yonina.jpeg"
+    "image_src": "assets/img/yonina.jpeg",
     "field": "AI"
 }
 ]
