@@ -1,0 +1,85 @@
+[{
+    "Name" : "Tim Vogels",
+    "Affliation": "Institute of Science and Technology Austria (IST Austria)"
+    "title" : "TBA",
+    "url" : "https://vogelslab.org/",
+    "image_src": "assets/img/tim_vogels.jpeg"
+},
+{
+    "Name" : "Vladimir Itskov",
+    "Affliation": "The Pennsylvania State University, PA, US"
+    "title" : "TBA",
+    "url" : "http://personal.psu.edu/vui1/",
+    "image_src": "assets/img/vladimir_itskov.jpeg"
+},
+{
+    "Name" : "Yi Ma",
+    "Affliation": "University of California, Berkeley, CL, UA"
+    "title" : "TBA",
+    "url" : "https://people.eecs.berkeley.edu/~yima/",
+    "image_src": "assets/img/YiMa.jpeg"
+},
+{
+    "Name" : "Damian Battaglia",
+    "Affliation": "Institute of Science and Technology Austria (IST Austria)"
+    "title" : "TBA",
+    "url" : "https://www.usias.fr/en/fellows/fellows-2020/demian-battaglia/",
+    "image_src": "assets/img/Damian_Battaglia.jpg"
+},
+{
+    "Name" : "Rishikesh Narayanan",
+    "Affliation": "Indian Institute of Sciences, Bangalore, India"
+    "title" : "TBA",
+    "url" : "http://mbu.iisc.ernet.in/~rngrp/",
+    "image_src": "assets/img/Rishi.jpeg"
+},
+{
+    "Name" : "Michael London",
+    "Affliation": "The Hebrew University, Jerusalem, Israel"
+    "title" : "TBA",
+    "url" : "https://scholars.huji.ac.il/jbc/people/dr-mickey-london",
+    "image_src": "assets/img/mickey_london.png"
+},
+{
+    "Name" : "Partha Mitra",
+    "Affliation": "Cold Spring Harbor Laboratory, US"
+    "title" : "TBA",
+    "url" : "http://brainarchitecture.org/",
+    "image_src": "assets/img/Partha_Mitra.jpeg"
+},
+{
+    "Name" : "Ran Levi",
+    "Affliation": "University of Aberdeen, Scotland, UK"
+    "title" : "TBA",
+    "url" : "https://www.abdn.ac.uk/ncs/profiles/r.levi/",
+    "image_src": "assets/img/Ran_Levi.jpeg"
+},
+{
+    "Name" : "Anita Disney",
+    "Affliation": "Duke University, US"
+    "title" : "TBA",
+    "url" : "https://www.neuro.duke.edu/people/faculty/anita-disney",
+    "image_src": "assets/img/Anita_Disney.jpeg"
+},
+{
+    "Name" : "Gabrielle Gutierrez",
+    "Affliation": "Barnard College, Columbia University, NY, US"
+    "title" : "TBA",
+    "url" : "https://gabriellejgutierrez.com/",
+    "image_src": "assets/img/gabrielle.jpeg"
+},
+{
+    "Name" : "Nelson Totah",
+    "Affliation": " Helsinki Institute of Life Science HiLIFE"
+    "title" : "TBA",
+    "url" : "https://researchportal.helsinki.fi/en/persons/nelson-totah",
+    "image_src": "assets/img/nelson_total.jpeg"
+},
+{
+    "Name" : "Yonina Eldar",
+    "Affliation": " Weizmann Institute of Science, Rehovat, Israel"
+    "title" : "TBA",
+    "url" : "https://www.wisdom.weizmann.ac.il/~yonina/YoninaEldar/",
+    "image_src": "assets/img/yonina.webp"
+}
+]
