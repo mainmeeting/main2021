@@ -8,7 +8,7 @@
         <div class="form-inline">
             <label for="sortBy" style="margin-right:5px">Sort by: </label>
             <select id="sortBy" class="form-control" ng-model="$ctrl.orderProp">
-                    <option value="-name">Name</option>
+                    <option value="-year">Name</option>
             </select>
         </div>
     </div>
@@ -20,9 +20,9 @@
     <div class="row">
       <div class="col-sm">
               <dd>
-            <span style="font-size: 14px; font-weight:bold"> <a target="_blank" href="{{people.url}}"> {{people.name}} </a> </span>
-              <span>({{people.affiliation}})</span>
-              <span style="font-size: 14px; font-weight:bold">{Title: {people.title}}</span>
+            <span style="font-size: 14px; font-weight:bold"> <a target="_blank" href="{{people.url}}"> {{people.Name}} </a> </span>
+              <span>({{people.Affiliation}})</span>
+              <span style="font-size: 14px; font-weight:bold">{{people.title}}</span>
               <dd>
               </dd>
               <br> </br>
