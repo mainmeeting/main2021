@@ -1,85 +1,109 @@
 [{
     "name" : "Tim Vogels",
+    "last_name": "Tim",
     "affiliation": "Institute of Science and Technology Austria (IST Austria)",
     "title" : "TBA",
     "url" : "https://vogelslab.org/",
-    "image_src": "assets/img/tim_vogels.jpeg"
+    "image_src": "assets/img/tim_vogels.jpeg",
+    "field": "Neuroscience"
 },
 {
     "name" : "Vladimir Itskov",
+    "last_name": "Itskov",
     "affiliation": "The Pennsylvania State University, PA, US",
     "title" : "TBA",
     "url" : "http://personal.psu.edu/vui1/",
     "image_src": "assets/img/vladimir_itskov.jpeg"
+    "field": "Topology"
 },
 {
     "name" : "Yi Ma",
+    "last_name": "Ma",
     "affiliation": "University of California, Berkeley, CL, UA",
     "title" : "TBA",
     "url" : "https://people.eecs.berkeley.edu/~yima/",
     "image_src": "assets/img/YiMa.jpeg"
+    "field": "AI"
 },
 {
     "name" : "Damian Battaglia",
+    "last_name": "Battaglia",
     "affiliation": "University of Strasbourg, France",
     "title" : "TBA",
     "url" : "https://www.usias.fr/en/fellows/fellows-2020/demian-battaglia/",
     "image_src": "assets/img/Damian_Battaglia.jpg"
+    "field": "Neuroscience"
 },
 {
-    "name" : "Rishikesh Narayanan",
+    "name" : "Rishikesh Narayan",
+    "last_name": "Narayan",
     "affiliation": "Indian Institute of Sciences, Bangalore, India",
     "title" : "TBA",
     "url" : "http://mbu.iisc.ernet.in/~rngrp/",
     "image_src": "assets/img/Rishi.jpeg"
+    "field": "Neuroscience"
 },
 {
     "name" : "Michael London",
+    "last_name": "London",
     "affiliation": "The Hebrew University, Jerusalem, Israel",
     "title" : "TBA",
     "url" : "https://scholars.huji.ac.il/jbc/people/dr-mickey-london",
     "image_src": "assets/img/mickey_london.png"
+    "field": "Neuroscience"
 },
 {
     "name" : "Partha Mitra",
+    "last_name": "Mitra",
     "affiliation": "Cold Spring Harbor Laboratory, US",
     "title" : "TBA",
     "url" : "http://brainarchitecture.org/",
     "image_src": "assets/img/Partha_Mitra.jpeg"
+    "field": "Neuroscience"
 },
 {
     "name" : "Ran Levi",
+    "last_name": "Levi",
     "affiliation": "University of Aberdeen, Scotland, UK",
     "title" : "TBA",
     "url" : "https://www.abdn.ac.uk/ncs/profiles/r.levi/",
     "image_src": "assets/img/Ran_Levi.jpeg"
+    "field": "Topology"
 },
 {
     "name" : "Anita Disney",
+    "last_name": "Disney",
     "affiliation": "Duke University, US",
     "title" : "TBA",
     "url" : "https://www.neuro.duke.edu/people/faculty/anita-disney",
     "image_src": "assets/img/Anita_Disney.jpeg"
+    "field": "Neuroscience"
 },
 {
     "name" : "Gabrielle Gutierrez",
+    "last_name": "Gutierrez",
     "affiliation": "Barnard College, Columbia University, NY, US",
     "title" : "TBA",
     "url" : "https://gabriellejgutierrez.com/",
     "image_src": "assets/img/gabrielle.jpeg"
+    "field": "Neuroscience"
 },
 {
     "name" : "Nelson Totah",
+    "last_name": "Totah",
     "affiliation": " Helsinki Institute of Life Science HiLIFE",
     "title" : "TBA",
     "url" : "https://researchportal.helsinki.fi/en/persons/nelson-totah",
     "image_src": "assets/img/nelson_totah.jpeg"
+    "field": "Neuroscience"
 },
 {
     "name" : "Yonina Eldar",
+    "last_name": "Eldar",
     "affiliation": " Weizmann Institute of Science, Rehovat, Israel",
     "title" : "TBA",
     "url" : "https://www.wisdom.weizmann.ac.il/~yonina/YoninaEldar/",
     "image_src": "assets/img/yonina.jpeg"
+    "field": "AI"
 }
 ]
