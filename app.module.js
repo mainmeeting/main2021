@@ -2,5 +2,6 @@
 angular.module('main', [
   'home',
   'program',
-  'people'
+  'people',
+  'organizers'
 ]);
