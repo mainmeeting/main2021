@@ -6,7 +6,7 @@ component('people', {
     controller: ['$http',
         function PeopleController($http) {
             var self = this;
-            self.orderProp = '-year';            $http.get('people/people.json').then(function(response) {
+            self.orderProp = '-name';            $http.get('people/people.json').then(function(response) {
                 self.people = response.data;
             });
 
