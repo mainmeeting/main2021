@@ -1,2 +1,2 @@
 // Define the `publications` module
-angular.module('publications', []);
+angular.module('people', []);
