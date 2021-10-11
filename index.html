@@ -15,6 +15,8 @@
   <script type="text/javascript" src="program/program.component.js"></script>
   <script type="text/javascript" src="organizers/organizers.module.js"></script>
   <script type="text/javascript" src="organizers/organizers.component.js"></script>
+  <script type="text/javascript" src="people/people.module.js"></script>
+  <script type="text/javascript" src="people/people.component.js"></script>
   <style>
 <!--      img {-->
 <!--          border-radius: 100%;-->
@@ -78,6 +80,11 @@
               <i class="fa fa-home"></i> Home <span class="sr-only">(current)</span>
             </a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" id="people-tab" data-toggle="tab" href="#people" role="tab" aria-controls="people" aria-selected="true">
+              <i class="fa fa-users"></i> Invited Speakers
+            </a>
+          </li>
         <li class="nav-item">
             <a class="nav-link" id="program-tab" data-toggle="tab" href="#program" role="tab" aria-controls="program" aria-selected="true">
                 <i class="fa fa-file"></i> Program
@@ -100,6 +107,9 @@
       </div>
       <div class="tab-pane fade" id="program" role="tabpanel" aria-labelledby="program">
         <program class="panel"></program>
+      </div>
+      <div class="tab-pane fade" id="people" role="tabpanel" aria-labelledby="people">
+        <people class="panel"></people>
       </div>
     <div class="tab-pane fade" id="organizers" role="tabpanel" aria-labelledby="organizers">
       <people class="panel"></organizers>
