@@ -105,5 +105,23 @@
     "url" : "https://www.wisdom.weizmann.ac.il/~yonina/YoninaEldar/",
     "image_src": "assets/img/yonina.jpeg",
     "field": "AI"
+},
+{
+    "name" : "Mackenzie Mathis",
+    "last_name": "Mathis",
+    "affiliation": "EPFL, Switzerland",
+    "title" : "TBA",
+    "url" : "http://www.mackenziemathislab.org/",
+    "image_src": "assets/img/Mackenzie_Mathis.jpeg",
+    "field": "Neurosciece, AI"
+},
+{
+    "name" : "Daniela Egas Santander",
+    "last_name": "Santander",
+    "affiliation": "EPFL, Switzerland",
+    "title" : "TBA",
+    "url" : "https://opc.mfo.de/detail?photo_id=19248",
+    "image_src": "assets/img/Daniela_Egas.jpeg",
+    "field": "Topology"
 }
 ]
