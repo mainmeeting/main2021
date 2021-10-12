@@ -123,5 +123,14 @@
     "url" : "https://opc.mfo.de/detail?photo_id=19248",
     "image_src": "assets/img/Daniela_Egas.jpeg",
     "field": "Topology"
+},
+{
+    "name" : "Lars Kai Hansen",
+    "last_name": "Hansen",
+    "affiliation": "Technical University of Denmark, Denmark",
+    "title" : "TBA",
+    "url" : "http://cogsys.imm.dtu.dk/staff/lkhansen/lkhansen.html",
+    "image_src": "assets/img/lars_kai_hansen.jpeg",
+    "field": "AI"
 }
 ]
