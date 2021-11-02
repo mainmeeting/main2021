@@ -2,5 +2,5 @@
 angular.
 module('program').
 component('program', {
-    templateUrl: 'program/program.template.html',
+    templateUrl: 'program/program.template2.html',
 });

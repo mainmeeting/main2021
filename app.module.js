@@ -3,5 +3,6 @@ angular.module('main', [
   'home',
   'program',
   'people',
-  'organizers'
+  'organizers',
+  'venue'
 ]);
