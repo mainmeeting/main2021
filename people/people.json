@@ -5,7 +5,8 @@
     "title" : "TBA",
     "url" : "https://vogelslab.org/",
     "image_src": "assets/img/tim_vogels.jpeg",
-    "field": "Neuroscience"
+    "field": "Neuroscience",
+     "abstract": ""
 },
 {
     "name" : "Vladimir Itskov",
@@ -14,7 +15,8 @@
     "title" : "TBA",
     "url" : "http://personal.psu.edu/vui1/",
     "image_src": "assets/img/vladimir_itskov.jpeg",
-    "field": "Topology"
+    "field": "Topology",
+     "abstract": ""
 },
 {
     "name" : "Yi Ma",
@@ -23,7 +25,8 @@
     "title" : "TBA",
     "url" : "https://people.eecs.berkeley.edu/~yima/",
     "image_src": "assets/img/YiMa.jpeg",
-    "field": "AI"
+    "field": "AI",
+     "abstract": ""
 },
 {
     "name" : "Damian Battaglia",
@@ -32,7 +35,8 @@
     "title" : "TBA",
     "url" : "https://www.usias.fr/en/fellows/fellows-2020/demian-battaglia/",
     "image_src": "assets/img/Damian_Battaglia.jpg",
-    "field": "Neuroscience"
+    "field": "Neuroscience",
+     "abstract": ""
 },
 {
     "name" : "Rishikesh Narayanan",
@@ -41,7 +45,8 @@
     "title" : "TBA",
     "url" : "http://mbu.iisc.ernet.in/~rngrp/",
     "image_src": "assets/img/Rishi.jpeg",
-    "field": "Neuroscience"
+    "field": "Neuroscience",
+     "abstract": ""
 },
 {
     "name" : "Michael London",
@@ -50,7 +55,8 @@
     "title" : "TBA",
     "url" : "https://scholars.huji.ac.il/jbc/people/dr-mickey-london",
     "image_src": "assets/img/mickey_london.png",
-    "field": "Neuroscience"
+    "field": "Neuroscience",
+     "abstract": ""
 },
 {
     "name" : "Partha Mitra",
@@ -59,7 +65,8 @@
     "title" : "Fitting elephants in modern Machine Learning: Interpolating noisy data and getting away with it",
     "url" : "http://brainarchitecture.org/",
     "image_src": "assets/img/Partha_Mitra.jpeg",
-    "field": "Neuroscience"
+    "field": "Neuroscience",
+     "abstract": ""
 },
 {
     "name" : "Ran Levi",
@@ -68,7 +75,8 @@
     "title" : "TBA",
     "url" : "https://www.abdn.ac.uk/ncs/profiles/r.levi/",
     "image_src": "assets/img/Ran_Levi.jpeg",
-    "field": "Topology"
+    "field": "Topology",
+     "abstract": ""
 },
 {
     "name" : "Anita Disney",
@@ -77,7 +85,8 @@
     "title" : "TBA",
     "url" : "https://www.neuro.duke.edu/people/faculty/anita-disney",
     "image_src": "assets/img/Anita_Disney.jpeg",
-    "field": "Neuroscience"
+    "field": "Neuroscience",
+     "abstract": ""
 },
 {
     "name" : "Gabrielle Gutierrez",
@@ -86,7 +95,8 @@
     "title" : "TBA",
     "url" : "https://gabriellejgutierrez.com/",
     "image_src": "assets/img/gabrielle.jpeg",
-    "field": "Neuroscience"
+    "field": "Neuroscience",
+     "abstract": ""
 },
 {
     "name" : "Nelson Totah",
@@ -95,7 +105,8 @@
     "title" : "TBA",
     "url" : "https://researchportal.helsinki.fi/en/persons/nelson-totah",
     "image_src": "assets/img/nelson_totah.jpeg",
-    "field": "Neuroscience"
+    "field": "Neuroscience",
+     "abstract": ""
 },
 {
     "name" : "Yonina Eldar",
@@ -114,7 +125,8 @@
     "title" : "TBA",
     "url" : "http://www.mackenziemathislab.org/",
     "image_src": "assets/img/Mackenzie_Mathis.jpeg",
-    "field": "Neurosciece, AI"
+    "field": "Neurosciece, AI",
+     "abstract": ""
 },
 {
     "name" : "Daniela Egas Santander",
@@ -123,7 +135,8 @@
     "title" : "TBA",
     "url" : "https://opc.mfo.de/detail?photo_id=19248",
     "image_src": "assets/img/Daniela_Egas.jpeg",
-    "field": "Topology"
+    "field": "Topology",
+     "abstract": ""
 },
 {
     "name" : "Lars Kai Hansen",
@@ -142,7 +155,8 @@
     "title" : "TBA",
     "url" : "http://www.personal.psu.edu/cpc16/",
     "image_src": "assets/img/carina_curto.jpeg",
-    "field": "Maths"
+    "field": "Maths",
+     "abstract": ""
 },
  {
     "name" : "Antonio Marquez",
