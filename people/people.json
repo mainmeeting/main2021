@@ -56,7 +56,7 @@
     "name" : "Partha Mitra",
     "last_name": "Mitra",
     "affiliation": "Cold Spring Harbor Laboratory, US",
-    "title" : "TBA",
+    "title" : "Fitting elephants in modern Machine Learning: Interpolating noisy data and getting away with it",
     "url" : "http://brainarchitecture.org/",
     "image_src": "assets/img/Partha_Mitra.jpeg",
     "field": "Neuroscience"
@@ -104,7 +104,8 @@
     "title" : "Model Based Deep Learning: Applications to Imaging and Communications",
     "url" : "https://www.wisdom.weizmann.ac.il/~yonina/YoninaEldar/",
     "image_src": "assets/img/yonina.jpeg",
-    "field": "AI"
+    "field": "AI",
+    "abstract": "Deep neural networks provide unprecedented performance gains in many real-world problems in signal and image processing. Despite these gains, the future development and practical deployment of deep networks are hindered by their black-box nature, i.e., a lack of interpretability and the need for very large training sets. On the other hand, signal processing and communications have traditionally relied on classical statistical modeling techniques that utilize mathematical formulations representing the underlying physics, prior information and additional domain knowledge. Simple classical models are useful but sensitive to inaccuracies and may lead to poor performance when real systems display complex or dynamic behavior. Here we introduce various approaches to model based learning which merge parametric models with optimization tools leading to efficient, interpretable networks from reasonably sized training sets. We will consider examples of such model-based deep networks to image deblurring, image separation, super resolution in ultrasound and microscopy, efficient communications systems, and finally we will see how model-based methods can also be used for efficient diagnosis of COVID19 using X-ray and ultrasound."
 },
 {
     "name" : "Mackenzie Mathis",
@@ -131,7 +132,8 @@
     "title" : "Machine learning for EEG based brain state monitoring",
     "url" : "http://cogsys.imm.dtu.dk/staff/lkhansen/lkhansen.html",
     "image_src": "assets/img/lars_kai_hansen.jpeg",
-    "field": "AI"
+    "field": "AI",
+    "abstract": "Electroencephalography (EEG) is a widely used non-invasive technology for brain monitoring. The EEG signal is complex and confounded by artifacts and EEG analysis is challenging. I will review progress in machine learning for EEG analysis and discuss our efforts to push the limits to EEG based brain state monitoring."
 },
  {
     "name" : "Carina Curto",
@@ -149,6 +151,7 @@
     "title" : "Connecting the dots: Identifying Network Structure using Graph Signal Processing",
     "url" : "https://tsc.urjc.es/~amarques/",
     "image_src": "assets/img/antonio_marquez.jpeg",
-    "field": "AI"
+    "field": "AI",
+     "abstract": "The talk provides an overview of graph signal processing (GSP)-based methods designed to learn an unknown network from nodal observations. Using signals to learn a graph is a central problem in network science and statistics, with results going back more than 50 years. The main goal of the talk is threefold: i) explaining in detail fundamental GSP-based methods and comparing those with classical methods in statistics, ii) putting forth a number of GSP-based formulations and algorithms able to address scenarios with a range of different operating conditions, and iii) briefly introducing generalizations to more challenging setups, including multi-layer graphs and learning in the presence of hidden nodal variables. Our graph learning algorithms will be designed as solutions to judiciously formulated constrained-optimization sparse-recovery problems. Critical to this approach is the codification of GSP concepts such as signal smoothness and graph stationarity into tractable constraints. "
 }
 ]
