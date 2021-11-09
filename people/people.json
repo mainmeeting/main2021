@@ -132,5 +132,14 @@
     "url" : "http://cogsys.imm.dtu.dk/staff/lkhansen/lkhansen.html",
     "image_src": "assets/img/lars_kai_hansen.jpeg",
     "field": "AI"
+},
+ {
+    "name" : "Carina Curto",
+    "last_name": "Curto",
+    "affiliation": "The Pennsylvania State University",
+    "title" : "TBA",
+    "url" : "http://www.personal.psu.edu/cpc16/",
+    "image_src": "assets/img/carina_curto.jpeg",
+    "field": "Maths"
 }
 ]
