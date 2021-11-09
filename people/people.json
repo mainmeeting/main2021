@@ -141,5 +141,14 @@
     "url" : "http://www.personal.psu.edu/cpc16/",
     "image_src": "assets/img/carina_curto.jpeg",
     "field": "Maths"
+},
+ {
+    "name" : "Antonio Marquez",
+    "last_name": "Marquez",
+    "affiliation": "King Juan Carlos University Camino del Molino, Madrid, Spain",
+    "title" : "TBA",
+    "url" : "https://tsc.urjc.es/~amarques/",
+    "image_src": "assets/img/antonio_marquez.jpeg",
+    "field": "AI"
 }
 ]
