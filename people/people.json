@@ -128,7 +128,7 @@
     "name" : "Lars Kai Hansen",
     "last_name": "Hansen",
     "affiliation": "Technical University of Denmark, Denmark",
-    "title" : "TBA",
+    "title" : "Machine learning for EEG based brain state monitoring",
     "url" : "http://cogsys.imm.dtu.dk/staff/lkhansen/lkhansen.html",
     "image_src": "assets/img/lars_kai_hansen.jpeg",
     "field": "AI"
@@ -146,7 +146,7 @@
     "name" : "Antonio Marquez",
     "last_name": "Marquez",
     "affiliation": "King Juan Carlos University Camino del Molino, Madrid, Spain",
-    "title" : "TBA",
+    "title" : "Connecting the dots: Identifying Network Structure using Graph Signal Processing",
     "url" : "https://tsc.urjc.es/~amarques/",
     "image_src": "assets/img/antonio_marquez.jpeg",
     "field": "AI"
