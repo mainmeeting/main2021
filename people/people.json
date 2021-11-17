@@ -167,5 +167,15 @@
     "image_src": "assets/img/antonio_marquez.jpeg",
     "field": "AI",
      "abstract": "The talk provides an overview of graph signal processing (GSP)-based methods designed to learn an unknown network from nodal observations. Using signals to learn a graph is a central problem in network science and statistics, with results going back more than 50 years. The main goal of the talk is threefold: i) explaining in detail fundamental GSP-based methods and comparing those with classical methods in statistics, ii) putting forth a number of GSP-based formulations and algorithms able to address scenarios with a range of different operating conditions, and iii) briefly introducing generalizations to more challenging setups, including multi-layer graphs and learning in the presence of hidden nodal variables. Our graph learning algorithms will be designed as solutions to judiciously formulated constrained-optimization sparse-recovery problems. Critical to this approach is the codification of GSP concepts such as signal smoothness and graph stationarity into tractable constraints. "
+},
+ {
+    "name" : "Michael Felsberg",
+    "last_name": "Felsberg",
+    "affiliation": "Linköpings universitet, Sweden",
+    "title" : "TBA",
+    "url" : "https://liu.se/medarbetare/micfe03",
+    "image_src": "assets/img/Felsberg.jpeg",
+    "field": "AI",
+     "abstract": "TBA. "
 }
 ]
