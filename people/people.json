@@ -92,11 +92,11 @@
     "name" : "Gabrielle Gutierrez",
     "last_name": "Gutierrez",
     "affiliation": "Barnard College, Columbia University, NY, US",
-    "title" : "TBA",
+    "title" : "The smart image compression algorithm in the retina: a theoretical study of recoding inputs in neural circuits",
     "url" : "https://gabriellejgutierrez.com/",
     "image_src": "assets/img/gabrielle.jpeg",
     "field": "Neuroscience",
-     "abstract": ""
+     "abstract": "Computation in neural circuits relies on a common set of motifs, including divergence of common inputs to parallel pathways, convergence of multiple inputs to a single neuron, and nonlinearities that select some signals over others.  Convergence and circuit nonlinearities, considered individually, can lead to a loss of information about the inputs. Past work has detailed how to optimize nonlinearities and circuit weights to maximize information, but we show that selective nonlinearities, acting together with divergent and convergent circuit structure, can improve information transmission over a purely linear circuit despite the suboptimality of these components individually. These nonlinearities recode the inputs in a manner that preserves the variance among converged inputs. Our results suggest that neural circuits may be doing better than expected without finely tuned weights."
 },
 {
     "name" : "Nelson Totah",
