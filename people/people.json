@@ -52,11 +52,11 @@
     "name" : "Michael London",
     "last_name": "London",
     "affiliation": "The Hebrew University, Jerusalem, Israel",
-    "title" : "TBA",
+    "title" : "Single cortical neuron as a deep artificial neural network",
     "url" : "https://scholars.huji.ac.il/jbc/people/dr-mickey-london",
     "image_src": "assets/img/mickey_london.png",
     "field": "Neuroscience",
-     "abstract": ""
+     "abstract": "Utilizing recent advances in machine learning, we introduce a systematic approach to characterize neurons’ input/output (I/O) mapping complexity. Deep neural networks (DNNs) were trained to faithfully replicate the I/O function of various biophysical models of cortical neurons at millisecond (spiking) resolution. A temporally convolutional DNN with five to eight layers was required to capture the I/O mapping of a realistic model of a layer 5 cortical pyramidal cell (L5PC). This DNN generalized well when presented with inputs widely outside the training distribution. When NMDA receptors were removed, a much simpler network (fully connected neural network with one hidden layer) was sufficient to fit the model. Analysis of the DNNs’ weight matrices revealed that synaptic integration in dendritic branches could be conceptualized as pattern matching from a set of spatiotemporal templates. This study provides a unified characterization of the computational complexity of single neurons and suggests that cortical networks therefore have a unique architecture, potentially supporting their computational power."
 },
 {
     "name" : "Partha Mitra",
