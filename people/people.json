@@ -82,7 +82,7 @@
     "name" : "Anita Disney",
     "last_name": "Disney",
     "affiliation": "Duke University, US",
-    "title" : "TBA",
+    "title" : "Specifying a neural network: Lessons from neuromodulation in visual processing",
     "url" : "https://www.neuro.duke.edu/people/faculty/anita-disney",
     "image_src": "assets/img/Anita_Disney.jpeg",
     "field": "Neuroscience",
@@ -106,7 +106,7 @@
     "url" : "https://researchportal.helsinki.fi/en/persons/nelson-totah",
     "image_src": "assets/img/nelson_totah.jpeg",
     "field": "Neuroscience",
-     "abstract": ""
+     "abstract": "Evolution has conferred upon natural neural circuits the capacity to specify their own processing states, on multiple spatial and temporal scales, in a manner that is adaptive to internal and external context. In many cases this state specification arises from the collective action of multiple chemical neuromodulators. Using the visual system of the macaque as a model, I will outline some perhaps lesser-known structural and functional features of the ways that these neuromodulatory state specification signals interact with neural circuits."
 },
 {
     "name" : "Yonina Eldar",
