@@ -12,11 +12,11 @@
     "name" : "Vladimir Itskov",
     "last_name": "Itskov",
     "affiliation": "The Pennsylvania State University, PA, US",
-    "title" : "TBA",
+    "title" : "Decoding geometry and topology of neural representations",
     "url" : "http://personal.psu.edu/vui1/",
     "image_src": "assets/img/vladimir_itskov.jpeg",
     "field": "Topology",
-    "abstract": ""
+    "abstract": "The brain represents the perceived world via the activity of individual neurons. Neural activity in many systems is organized on low-dimensional manifolds. Understanding the neural representations (a.k.a. the neural code) thus requires methods for inferring the structure of the underlying stimulus space, as well as natural decoding mechanisms that takes advantage of this structure. Neural representations are constrained by receptive field properties of individual neurons as well as the underlying neural network. It is therefore essential to utilize these constraints in any meaningful analysis of the underlying space. In my talk, I will describe two different methods, based on computational topology and differential geometry that take advantage of the receptive field properties to infer the dimension of (non-linear) neural representations as well as a geometry-based learning algorithm, that can be re-interpreted as an output of a neural network.  I will illustrate the first method by inferring basic features of the neural representations in the mouse olfactory bulb."
 },
 {
     "name" : "Yi Ma",
