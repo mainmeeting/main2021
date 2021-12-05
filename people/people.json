@@ -9,7 +9,7 @@
     "field": "Neuroscience",
     "date": "13.12.2021",
     "day": "Monday",
-    "Time": "0900",
+    "time": "0900",
      "abstract": "I will give an overview of neuroscience so that the audience new to this field can learn about the key concepts and main terminology necessary to follow the discussions in the meeting."
 },
 {
@@ -22,7 +22,7 @@
     "field": "Neuroscience",
     "date": "13.12.2021",
     "day": "Monday",
-    "Time": "0930",
+    "time": "0930",
      "abstract": ""
 },
 {
@@ -35,7 +35,7 @@
     "field": "AI",
     "date": "13.12.2021",
     "day": "Monday",
-    "Time": "1000",
+    "time": "1000",
      "abstract": ""
 },
 {
@@ -48,7 +48,7 @@
     "field": "Topology",
     "date": "13.12.2021",
     "day": "Monday",
-    "Time": "1300",
+    "time": "1300",
      "abstract": ""
 },
 {
@@ -61,7 +61,7 @@
     "field": "Topology",
     "date": "13.12.2021",
     "day": "Monday",
-    "Time": "1000",
+    "time": "1000",
      "abstract": ""
 },    
 {
@@ -74,7 +74,7 @@
     "field": "Topology",
     "date": "13.12.2021",
     "day": "Monday",
-    "Time": "1340",
+    "time": "1340",
      "abstract": ""
 },
 {
@@ -87,7 +87,7 @@
     "field": "AI",
     "date": "13.12.2021",
     "day": "Monday",
-    "Time": "1420",
+    "time": "1420",
      "abstract": "The talk provides an overview of graph signal processing (GSP)-based methods designed to learn an unknown network from nodal observations. Using signals to learn a graph is a central problem in network science and statistics, with results going back more than 50 years. The main goal of the talk is threefold: i) explaining in detail fundamental GSP-based methods and comparing those with classical methods in statistics, ii) putting forth a number of GSP-based formulations and algorithms able to address scenarios with a range of different operating conditions, and iii) briefly introducing generalizations to more challenging setups, including multi-layer graphs and learning in the presence of hidden nodal variables. Our graph learning algorithms will be designed as solutions to judiciously formulated constrained-optimization sparse-recovery problems. Critical to this approach is the codification of GSP concepts such as signal smoothness and graph stationarity into tractable constraints. "
 },
 {
@@ -100,7 +100,7 @@
     "field": "Maths",
     "date": "13.12.2021",
     "day": "Monday",
-    "Time": "1600",
+    "time": "1600",
      "abstract": ""
 },
 {
@@ -113,7 +113,7 @@
     "field": "Topology",
     "date": "13.12.2021",
     "day": "Monday",
-    "Time": "1640",
+    "time": "1640",
      "abstract": ""
 },
 {
@@ -165,7 +165,7 @@
     "field": "Neuroscience",
     "date": "14.12.2021",
     "day": "Tuesday",
-    "Time": "1340",
+    "time": "1340",
      "abstract": ""
 },
 {
@@ -178,7 +178,7 @@
     "field": "Neurosciece, AI",
     "date": "14.12.2021",
     "day": "Tuesday",
-    "Time": "1420",
+    "time": "1420",
      "abstract": "I will discuss our latest research program merging neuroscience and computer vision for the study of the brain. In particular, I will discuss DeepLabCut, our tool for animal pose estimation. "
 },
 {
@@ -218,7 +218,7 @@
     "date": "14.12.2021",
     "day": "Tuesday",
     "time": "1720",
-     "abstract": "TBA. "
+     "abstract": "TBA"
 },
 {
     "name" : "Michael London",
@@ -230,7 +230,7 @@
     "field": "Neuroscience",
     "date": "15.12.2021",
     "day": "Wednesday",
-    "Time": "1300",
+    "time": "1300",
      "abstract": "Utilizing recent advances in machine learning, we introduce a systematic approach to characterize neurons’ input/output (I/O) mapping complexity. Deep neural networks (DNNs) were trained to faithfully replicate the I/O function of various biophysical models of cortical neurons at millisecond (spiking) resolution. A temporally convolutional DNN with five to eight layers was required to capture the I/O mapping of a realistic model of a layer 5 cortical pyramidal cell (L5PC). This DNN generalized well when presented with inputs widely outside the training distribution. When NMDA receptors were removed, a much simpler network (fully connected neural network with one hidden layer) was sufficient to fit the model. Analysis of the DNNs’ weight matrices revealed that synaptic integration in dendritic branches could be conceptualized as pattern matching from a set of spatiotemporal templates. This study provides a unified characterization of the computational complexity of single neurons and suggests that cortical networks therefore have a unique architecture, potentially supporting their computational power."
 },
 {
@@ -256,7 +256,7 @@
     "field": "Neuroscience",
     "date": "15.12.2021",
     "day": "Wednesday",
-    "Time": "1420",
+    "time": "1420",
      "abstract": "In this talk, the following (subset of) oversimplifications in assessing plasticity and computing in the brain will be discussed. Some approaches over the decades to account for these oversimplifications will be presented. Oversimplification #1. Neurons are simple algebraic summation units with a threshold nonlinearity. Oversimplification #2. Neural circuits are made of repeating homogeneous computational units. Oversimplification #3. Learning and memory in biological systems is accomplished exclusively through synaptic changes. Oversimplification #4. There is a unique solution to how biological learning is accomplished, and our goal is to find that solution. Oversimplification #5. Glial cells are glue. Other oversimplifications. Ignore the following across all scales of analysis: (i) Feedback loops (ii) Stochasticity and noise (iii) Continual adaptation (iv) Pleiotropy (v) Secondary and off-target effects of perturbations (vi) Subject-to-subject variability (vii) Plasticity-Stability balance (viii) Catastrophic forgetting."
 },
 {
@@ -269,7 +269,7 @@
     "field": "Neuroscience",
     "date": "15.12.2021",
     "day": "Wednesday",
-    "Time": "1600",
+    "time": "1600",
      "abstract": ""
 },
 {
@@ -280,10 +280,10 @@
     "url" : "https://researchportal.helsinki.fi/en/persons/nelson-totah",
     "image_src": "assets/img/nelson_totah.jpeg",
     "field": "Neuroscience",
-     "abstract": "Evolution has conferred upon natural neural circuits the capacity to specify their own processing states, on multiple spatial and temporal scales, in a manner that is adaptive to internal and external context. In many cases this state specification arises from the collective action of multiple chemical neuromodulators. Using the visual system of the macaque as a model, I will outline some perhaps lesser-known structural and functional features of the ways that these neuromodulatory state specification signals interact with neural circuits."
     "date": "15.12.2021",
     "day": "Wednesday",
-    "Time": "1640",
+    "time": "1640",
+     "abstract": "Evolution has conferred upon natural neural circuits the capacity to specify their own processing states, on multiple spatial and temporal scales, in a manner that is adaptive to internal and external context. In many cases this state specification arises from the collective action of multiple chemical neuromodulators. Using the visual system of the macaque as a model, I will outline some perhaps lesser-known structural and functional features of the ways that these neuromodulatory state specification signals interact with neural circuits."
 },
 {
     "name" : "Gabrielle Gutierrez",
@@ -293,9 +293,9 @@
     "url" : "https://gabriellejgutierrez.com/",
     "image_src": "assets/img/gabrielle.jpeg",
     "field": "Neuroscience",
-     "abstract": "Computation in neural circuits relies on a common set of motifs, including divergence of common inputs to parallel pathways, convergence of multiple inputs to a single neuron, and nonlinearities that select some signals over others.  Convergence and circuit nonlinearities, considered individually, can lead to a loss of information about the inputs. Past work has detailed how to optimize nonlinearities and circuit weights to maximize information, but we show that selective nonlinearities, acting together with divergent and convergent circuit structure, can improve information transmission over a purely linear circuit despite the suboptimality of these components individually. These nonlinearities recode the inputs in a manner that preserves the variance among converged inputs. Our results suggest that neural circuits may be doing better than expected without finely tuned weights."
     "date": "15.12.2021",
     "day": "Wednesday",
-    "Time": "1720",
+    "time": "1720",
+     "abstract": "Computation in neural circuits relies on a common set of motifs, including divergence of common inputs to parallel pathways, convergence of multiple inputs to a single neuron, and nonlinearities that select some signals over others.  Convergence and circuit nonlinearities, considered individually, can lead to a loss of information about the inputs. Past work has detailed how to optimize nonlinearities and circuit weights to maximize information, but we show that selective nonlinearities, acting together with divergent and convergent circuit structure, can improve information transmission over a purely linear circuit despite the suboptimality of these components individually. These nonlinearities recode the inputs in a manner that preserves the variance among converged inputs. Our results suggest that neural circuits may be doing better than expected without finely tuned weights."
 }
 ]
