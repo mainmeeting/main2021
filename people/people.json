@@ -1,13 +1,4 @@
-[{
-    "name" : "Tim Vogels",
-    "last_name": "Tim",
-    "affiliation": "Institute of Science and Technology Austria (IST Austria)",
-    "title" : "A meta-learning approach to (re)discover plasticity rules that carve a desired function into a neural network",
-    "url" : "https://vogelslab.org/",
-    "image_src": "assets/img/tim_vogels.jpeg",
-    "field": "Neuroscience",
-     "abstract": "The search for biologically faithful synaptic plasticity rules has resulted in a large body of models. They are usually inspired by – and fitted to – experimental data, but they rarely produce neural dynamics that serve complex functions. These failures suggest that current plasticity models are still under-constrained by existing data. Here, we present an alternative approach that uses meta-learning to discover plausible synaptic plasticity rules. Instead of experimental data, the rules are constrained by the functions they implement and the structure they are meant to produce. Briefly, we parameterize synaptic plasticity rules by a Volterra expansion and then use supervised learning methods (gradient descent or evolutionary strategies) to minimize a problem-dependent loss function that quantifies how effectively a candidate plasticity rule transforms an initially random network into one with the desired function. We first validate our approach by re-discovering previously described plasticity rules, starting at the single-neuron level and “Oja’s rule”, a simple Hebbian plasticity rule that captures the direction of most variability of inputs to a neuron (i.e., the first principal component). We expand the problem to the network level and ask the framework to find Oja’s rule together with an anti-Hebbian rule such that an initially random two-layer firing-rate network will recover several principal components of the input space after learning. Next, we move to networks of integrate-and-fire neurons with plastic inhibitory afferents. We train for rules that achieve a target firing rate by countering tuned excitation. Our algorithm discovers a specific subset of the manifold of rules that can solve this task. Our work is a proof of principle of an automated and unbiased approach to unveil synaptic plasticity rules that obey biological constraints and can solve complex functions."
-},
+[
 {
     "name" : "Vladimir Itskov",
     "last_name": "Itskov",
@@ -16,6 +7,9 @@
     "url" : "http://personal.psu.edu/vui1/",
     "image_src": "assets/img/vladimir_itskov.jpeg",
     "field": "Topology",
+    "date": "13.12.2021",
+    "day": "Monday",
+    "time": "1720",
     "abstract": "The brain represents the perceived world via the activity of individual neurons. Neural activity in many systems is organized on low-dimensional manifolds. Understanding the neural representations (a.k.a. the neural code) thus requires methods for inferring the structure of the underlying stimulus space, as well as natural decoding mechanisms that takes advantage of this structure. Neural representations are constrained by receptive field properties of individual neurons as well as the underlying neural network. It is therefore essential to utilize these constraints in any meaningful analysis of the underlying space. In my talk, I will describe two different methods, based on computational topology and differential geometry that take advantage of the receptive field properties to infer the dimension of (non-linear) neural representations as well as a geometry-based learning algorithm, that can be re-interpreted as an output of a neural network.  I will illustrate the first method by inferring basic features of the neural representations in the mouse olfactory bulb."
 },
 {
@@ -26,6 +20,9 @@
     "url" : "https://people.eecs.berkeley.edu/~yima/",
     "image_src": "assets/img/YiMa.jpeg",
     "field": "AI",
+    "date": "14.12.2021",
+    "day": "Tuesday",
+    "time": "1600",
      "abstract": "This work proposes a new computational framework for learning an explicit generative model for real-world datasets. More specifically, we propose to learn a closed-loop transcription between a multi-class multi-dimensional data distribution and a linear discriminative representation (LDR) in the feature space that consists of multiple independent linear subspaces. We argue that the optimal encoding and decoding mappings sought can be formulated as the equilibrium point of a two-player minimax game between the encoder and decoder. A natural utility function for this game is the so-called rate reduction, a simple information-theoretic measure for distances between mixtures of subspace-like Gaussians in the feature space. Our formulation draws inspiration from closed-loop error feedback from control systems and avoids expensive evaluating and minimizing approximated distances between arbitrary distributions in either the data space or the feature space. To a large extent, this new formulation unifies the concepts and benefits of Auto-Encoding and GAN and naturally extends them to the settings of learning a both discriminative and generative representation for multi-class and multi-dimensional real-world data. Our extensive experiments on many benchmark imagery datasets demonstrate tremendous potential of this new closed-loop formulation: we notice that the so learned features of different classes are explicitly mapped onto approximately independent principal subspaces in the feature space; and diverse visual attributes within each class are modeled by the independent principal components within each subspace. This work opens many deep mathematical problems regarding learning submanifolds in high-dimensional spaces as well as suggests potential computational mechanisms about how memory can be formed through a purely internal close-loop process."
 },
 {
@@ -36,17 +33,10 @@
     "url" : "https://www.usias.fr/en/fellows/fellows-2020/demian-battaglia/",
     "image_src": "assets/img/Damian_Battaglia.jpg",
     "field": "Neuroscience",
+    "date": "13.12.2021",
+    "day": "Monday",
+    "time": "1800",
      "abstract": ""
-},
-{
-    "name" : "Rishikesh Narayanan",
-    "last_name": "Narayan",
-    "affiliation": "Indian Institute of Sciences, Bangalore, India",
-    "title" : "Plasticity and computing in the brain: Oversimplifications",
-    "url" : "http://mbu.iisc.ernet.in/~rngrp/",
-    "image_src": "assets/img/Rishi.jpeg",
-    "field": "Neuroscience",
-     "abstract": "In this talk, the following (subset of) oversimplifications in assessing plasticity and computing in the brain will be discussed. Some approaches over the decades to account for these oversimplifications will be presented. Oversimplification #1. Neurons are simple algebraic summation units with a threshold nonlinearity. Oversimplification #2. Neural circuits are made of repeating homogeneous computational units. Oversimplification #3. Learning and memory in biological systems is accomplished exclusively through synaptic changes. Oversimplification #4. There is a unique solution to how biological learning is accomplished, and our goal is to find that solution. Oversimplification #5. Glial cells are glue. Other oversimplifications. Ignore the following across all scales of analysis: (i) Feedback loops (ii) Stochasticity and noise (iii) Continual adaptation (iv) Pleiotropy (v) Secondary and off-target effects of perturbations (vi) Subject-to-subject variability (vii) Plasticity-Stability balance (viii) Catastrophic forgetting."
 },
 {
     "name" : "Michael London",
@@ -56,7 +46,36 @@
     "url" : "https://scholars.huji.ac.il/jbc/people/dr-mickey-london",
     "image_src": "assets/img/mickey_london.png",
     "field": "Neuroscience",
+    "date": "15.12.2021",
+    "day": "Wednesday",
+    "Time": "1300",
      "abstract": "Utilizing recent advances in machine learning, we introduce a systematic approach to characterize neurons’ input/output (I/O) mapping complexity. Deep neural networks (DNNs) were trained to faithfully replicate the I/O function of various biophysical models of cortical neurons at millisecond (spiking) resolution. A temporally convolutional DNN with five to eight layers was required to capture the I/O mapping of a realistic model of a layer 5 cortical pyramidal cell (L5PC). This DNN generalized well when presented with inputs widely outside the training distribution. When NMDA receptors were removed, a much simpler network (fully connected neural network with one hidden layer) was sufficient to fit the model. Analysis of the DNNs’ weight matrices revealed that synaptic integration in dendritic branches could be conceptualized as pattern matching from a set of spatiotemporal templates. This study provides a unified characterization of the computational complexity of single neurons and suggests that cortical networks therefore have a unique architecture, potentially supporting their computational power."
+},
+{
+    "name" : "Tim Vogels",
+    "last_name": "Tim",
+    "affiliation": "Institute of Science and Technology Austria (IST Austria)",
+    "title" : "A meta-learning approach to (re)discover plasticity rules that carve a desired function into a neural network",
+    "url" : "https://vogelslab.org/",
+    "image_src": "assets/img/tim_vogels.jpeg",
+    "field": "Neuroscience",
+    "date": "15.12.2021",
+    "day": "Wednesday",
+    "time": "1340",
+     "abstract": "The search for biologically faithful synaptic plasticity rules has resulted in a large body of models. They are usually inspired by – and fitted to – experimental data, but they rarely produce neural dynamics that serve complex functions. These failures suggest that current plasticity models are still under-constrained by existing data. Here, we present an alternative approach that uses meta-learning to discover plausible synaptic plasticity rules. Instead of experimental data, the rules are constrained by the functions they implement and the structure they are meant to produce. Briefly, we parameterize synaptic plasticity rules by a Volterra expansion and then use supervised learning methods (gradient descent or evolutionary strategies) to minimize a problem-dependent loss function that quantifies how effectively a candidate plasticity rule transforms an initially random network into one with the desired function. We first validate our approach by re-discovering previously described plasticity rules, starting at the single-neuron level and “Oja’s rule”, a simple Hebbian plasticity rule that captures the direction of most variability of inputs to a neuron (i.e., the first principal component). We expand the problem to the network level and ask the framework to find Oja’s rule together with an anti-Hebbian rule such that an initially random two-layer firing-rate network will recover several principal components of the input space after learning. Next, we move to networks of integrate-and-fire neurons with plastic inhibitory afferents. We train for rules that achieve a target firing rate by countering tuned excitation. Our algorithm discovers a specific subset of the manifold of rules that can solve this task. Our work is a proof of principle of an automated and unbiased approach to unveil synaptic plasticity rules that obey biological constraints and can solve complex functions."
+},
+{
+    "name" : "Rishikesh Narayanan",
+    "last_name": "Narayan",
+    "affiliation": "Indian Institute of Sciences, Bangalore, India",
+    "title" : "Plasticity and computing in the brain: Oversimplifications",
+    "url" : "http://mbu.iisc.ernet.in/~rngrp/",
+    "image_src": "assets/img/Rishi.jpeg",
+    "field": "Neuroscience",
+    "date": "15.12.2021",
+    "day": "Wednesday",
+    "Time": "1420",
+     "abstract": "In this talk, the following (subset of) oversimplifications in assessing plasticity and computing in the brain will be discussed. Some approaches over the decades to account for these oversimplifications will be presented. Oversimplification #1. Neurons are simple algebraic summation units with a threshold nonlinearity. Oversimplification #2. Neural circuits are made of repeating homogeneous computational units. Oversimplification #3. Learning and memory in biological systems is accomplished exclusively through synaptic changes. Oversimplification #4. There is a unique solution to how biological learning is accomplished, and our goal is to find that solution. Oversimplification #5. Glial cells are glue. Other oversimplifications. Ignore the following across all scales of analysis: (i) Feedback loops (ii) Stochasticity and noise (iii) Continual adaptation (iv) Pleiotropy (v) Secondary and off-target effects of perturbations (vi) Subject-to-subject variability (vii) Plasticity-Stability balance (viii) Catastrophic forgetting."
 },
 {
     "name" : "Partha Mitra",
@@ -66,6 +85,9 @@
     "url" : "http://brainarchitecture.org/",
     "image_src": "assets/img/Partha_Mitra.jpeg",
     "field": "Neuroscience",
+    "date": "14.12.2021",
+    "day": "Tuesday",
+    "Time": "1340",
      "abstract": ""
 },
 {
@@ -76,6 +98,9 @@
     "url" : "https://www.abdn.ac.uk/ncs/profiles/r.levi/",
     "image_src": "assets/img/Ran_Levi.jpeg",
     "field": "Topology",
+    "date": "13.12.2021",
+    "day": "Monday",
+    "Time": "1340",
      "abstract": ""
 },
 {
@@ -86,17 +111,10 @@
     "url" : "https://www.neuro.duke.edu/people/faculty/anita-disney",
     "image_src": "assets/img/Anita_Disney.jpeg",
     "field": "Neuroscience",
+    "date": "15.12.2021",
+    "day": "Wednesday",
+    "Time": "1600",
      "abstract": ""
-},
-{
-    "name" : "Gabrielle Gutierrez",
-    "last_name": "Gutierrez",
-    "affiliation": "Barnard College, Columbia University, NY, US",
-    "title" : "The smart image compression algorithm in the retina: a theoretical study of recoding inputs in neural circuits",
-    "url" : "https://gabriellejgutierrez.com/",
-    "image_src": "assets/img/gabrielle.jpeg",
-    "field": "Neuroscience",
-     "abstract": "Computation in neural circuits relies on a common set of motifs, including divergence of common inputs to parallel pathways, convergence of multiple inputs to a single neuron, and nonlinearities that select some signals over others.  Convergence and circuit nonlinearities, considered individually, can lead to a loss of information about the inputs. Past work has detailed how to optimize nonlinearities and circuit weights to maximize information, but we show that selective nonlinearities, acting together with divergent and convergent circuit structure, can improve information transmission over a purely linear circuit despite the suboptimality of these components individually. These nonlinearities recode the inputs in a manner that preserves the variance among converged inputs. Our results suggest that neural circuits may be doing better than expected without finely tuned weights."
 },
 {
     "name" : "Nelson Totah",
@@ -107,17 +125,24 @@
     "image_src": "assets/img/nelson_totah.jpeg",
     "field": "Neuroscience",
      "abstract": "Evolution has conferred upon natural neural circuits the capacity to specify their own processing states, on multiple spatial and temporal scales, in a manner that is adaptive to internal and external context. In many cases this state specification arises from the collective action of multiple chemical neuromodulators. Using the visual system of the macaque as a model, I will outline some perhaps lesser-known structural and functional features of the ways that these neuromodulatory state specification signals interact with neural circuits."
+    "date": "15.12.2021",
+    "day": "Wednesday",
+    "Time": "1640",
 },
 {
-    "name" : "Yonina Eldar",
-    "last_name": "Eldar",
-    "affiliation": " Weizmann Institute of Science, Rehovat, Israel",
-    "title" : "Model Based Deep Learning: Applications to Imaging and Communications",
-    "url" : "https://www.wisdom.weizmann.ac.il/~yonina/YoninaEldar/",
-    "image_src": "assets/img/yonina.jpeg",
-    "field": "AI",
-    "abstract": "Deep neural networks provide unprecedented performance gains in many real-world problems in signal and image processing. Despite these gains, the future development and practical deployment of deep networks are hindered by their black-box nature, i.e., a lack of interpretability and the need for very large training sets. On the other hand, signal processing and communications have traditionally relied on classical statistical modeling techniques that utilize mathematical formulations representing the underlying physics, prior information and additional domain knowledge. Simple classical models are useful but sensitive to inaccuracies and may lead to poor performance when real systems display complex or dynamic behavior. Here we introduce various approaches to model based learning which merge parametric models with optimization tools leading to efficient, interpretable networks from reasonably sized training sets. We will consider examples of such model-based deep networks to image deblurring, image separation, super resolution in ultrasound and microscopy, efficient communications systems, and finally we will see how model-based methods can also be used for efficient diagnosis of COVID19 using X-ray and ultrasound."
+    "name" : "Gabrielle Gutierrez",
+    "last_name": "Gutierrez",
+    "affiliation": "Barnard College, Columbia University, NY, US",
+    "title" : "The smart image compression algorithm in the retina: a theoretical study of recoding inputs in neural circuits",
+    "url" : "https://gabriellejgutierrez.com/",
+    "image_src": "assets/img/gabrielle.jpeg",
+    "field": "Neuroscience",
+     "abstract": "Computation in neural circuits relies on a common set of motifs, including divergence of common inputs to parallel pathways, convergence of multiple inputs to a single neuron, and nonlinearities that select some signals over others.  Convergence and circuit nonlinearities, considered individually, can lead to a loss of information about the inputs. Past work has detailed how to optimize nonlinearities and circuit weights to maximize information, but we show that selective nonlinearities, acting together with divergent and convergent circuit structure, can improve information transmission over a purely linear circuit despite the suboptimality of these components individually. These nonlinearities recode the inputs in a manner that preserves the variance among converged inputs. Our results suggest that neural circuits may be doing better than expected without finely tuned weights."
+    "date": "15.12.2021",
+    "day": "Wednesday",
+    "Time": "1720",
 },
+
 {
     "name" : "Mackenzie Mathis",
     "last_name": "Mathis",
