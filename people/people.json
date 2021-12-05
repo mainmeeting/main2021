@@ -1,5 +1,57 @@
 [
 {
+    "name" : "Ran Levi",
+    "last_name": "Levi",
+    "affiliation": "University of Aberdeen, Scotland, UK",
+    "title" : "TBA",
+    "url" : "https://www.abdn.ac.uk/ncs/profiles/r.levi/",
+    "image_src": "assets/img/Ran_Levi.jpeg",
+    "field": "Topology",
+    "date": "13.12.2021",
+    "day": "Monday",
+    "Time": "1340",
+     "abstract": ""
+},
+{
+    "name" : "Antonio Marquez",
+    "last_name": "Marquez",
+    "affiliation": "King Juan Carlos University Camino del Molino, Madrid, Spain",
+    "title" : "Connecting the dots: Identifying Network Structure using Graph Signal Processing",
+    "url" : "https://tsc.urjc.es/~amarques/",
+    "image_src": "assets/img/antonio_marquez.jpeg",
+    "field": "AI",
+    "date": "13.12.2021",
+    "day": "Monday",
+    "Time": "1420",
+     "abstract": "The talk provides an overview of graph signal processing (GSP)-based methods designed to learn an unknown network from nodal observations. Using signals to learn a graph is a central problem in network science and statistics, with results going back more than 50 years. The main goal of the talk is threefold: i) explaining in detail fundamental GSP-based methods and comparing those with classical methods in statistics, ii) putting forth a number of GSP-based formulations and algorithms able to address scenarios with a range of different operating conditions, and iii) briefly introducing generalizations to more challenging setups, including multi-layer graphs and learning in the presence of hidden nodal variables. Our graph learning algorithms will be designed as solutions to judiciously formulated constrained-optimization sparse-recovery problems. Critical to this approach is the codification of GSP concepts such as signal smoothness and graph stationarity into tractable constraints. "
+},
+{
+    "name" : "Carina Curto",
+    "last_name": "Curto",
+    "affiliation": "The Pennsylvania State University",
+    "title" : "TBA",
+    "url" : "http://www.personal.psu.edu/cpc16/",
+    "image_src": "assets/img/carina_curto.jpeg",
+    "field": "Maths",
+    "date": "13.12.2021",
+    "day": "Monday",
+    "Time": "1600",
+     "abstract": ""
+},
+{
+    "name" : "Daniela Egas Santander",
+    "last_name": "Santander",
+    "affiliation": "EPFL, Switzerland",
+    "title" : "Nerve theorems for fixed points of neural networks",
+    "url" : "https://opc.mfo.de/detail?photo_id=19248",
+    "image_src": "assets/img/Daniela_Egas.jpeg",
+    "field": "Topology",
+    "date": "13.12.2021",
+    "day": "Monday",
+    "Time": "1640",
+     "abstract": ""
+},
+{
     "name" : "Vladimir Itskov",
     "last_name": "Itskov",
     "affiliation": "The Pennsylvania State University, PA, US",
@@ -11,6 +63,58 @@
     "day": "Monday",
     "time": "1720",
     "abstract": "The brain represents the perceived world via the activity of individual neurons. Neural activity in many systems is organized on low-dimensional manifolds. Understanding the neural representations (a.k.a. the neural code) thus requires methods for inferring the structure of the underlying stimulus space, as well as natural decoding mechanisms that takes advantage of this structure. Neural representations are constrained by receptive field properties of individual neurons as well as the underlying neural network. It is therefore essential to utilize these constraints in any meaningful analysis of the underlying space. In my talk, I will describe two different methods, based on computational topology and differential geometry that take advantage of the receptive field properties to infer the dimension of (non-linear) neural representations as well as a geometry-based learning algorithm, that can be re-interpreted as an output of a neural network.  I will illustrate the first method by inferring basic features of the neural representations in the mouse olfactory bulb."
+},
+{
+    "name" : "Damian Battaglia",
+    "last_name": "Battaglia",
+    "affiliation": "University of Strasbourg, France",
+    "title" : "Neuronal dynamics and dynamics of information",
+    "url" : "https://www.usias.fr/en/fellows/fellows-2020/demian-battaglia/",
+    "image_src": "assets/img/Damian_Battaglia.jpg",
+    "field": "Neuroscience",
+    "date": "13.12.2021",
+    "day": "Monday",
+    "time": "1800",
+     "abstract": ""
+},
+{
+    "name" : "Lars Kai Hansen",
+    "last_name": "Hansen",
+    "affiliation": "Technical University of Denmark, Denmark",
+    "title" : "Machine learning for EEG based brain state monitoring",
+    "url" : "http://cogsys.imm.dtu.dk/staff/lkhansen/lkhansen.html",
+    "image_src": "assets/img/lars_kai_hansen.jpeg",
+    "field": "AI",
+    "date": "14.12.2021",
+    "day": "Tuesday",
+    "time": "1300",
+    "abstract": "Electroencephalography (EEG) is a widely used non-invasive technology for brain monitoring. The EEG signal is complex and confounded by artifacts and EEG analysis is challenging. I will review progress in machine learning for EEG analysis and discuss our efforts to push the limits to EEG based brain state monitoring."
+},
+{
+    "name" : "Partha Mitra",
+    "last_name": "Mitra",
+    "affiliation": "Cold Spring Harbor Laboratory, US",
+    "title" : "Fitting elephants in modern Machine Learning: Interpolating noisy data and getting away with it",
+    "url" : "http://brainarchitecture.org/",
+    "image_src": "assets/img/Partha_Mitra.jpeg",
+    "field": "Neuroscience",
+    "date": "14.12.2021",
+    "day": "Tuesday",
+    "Time": "1340",
+     "abstract": ""
+},
+{
+    "name" : "Mackenzie Mathis",
+    "last_name": "Mathis",
+    "affiliation": "EPFL, Switzerland",
+    "title" : "Understand the brain through the lens of behavior",
+    "url" : "http://www.mackenziemathislab.org/",
+    "image_src": "assets/img/Mackenzie_Mathis.jpeg",
+    "field": "Neurosciece, AI",
+    "date": "14.12.2021",
+    "day": "Tuesday",
+    "Time": "1420",
+     "abstract": "I will discuss our latest research program merging neuroscience and computer vision for the study of the brain. In particular, I will discuss DeepLabCut, our tool for animal pose estimation. "
 },
 {
     "name" : "Yi Ma",
@@ -26,17 +130,30 @@
      "abstract": "This work proposes a new computational framework for learning an explicit generative model for real-world datasets. More specifically, we propose to learn a closed-loop transcription between a multi-class multi-dimensional data distribution and a linear discriminative representation (LDR) in the feature space that consists of multiple independent linear subspaces. We argue that the optimal encoding and decoding mappings sought can be formulated as the equilibrium point of a two-player minimax game between the encoder and decoder. A natural utility function for this game is the so-called rate reduction, a simple information-theoretic measure for distances between mixtures of subspace-like Gaussians in the feature space. Our formulation draws inspiration from closed-loop error feedback from control systems and avoids expensive evaluating and minimizing approximated distances between arbitrary distributions in either the data space or the feature space. To a large extent, this new formulation unifies the concepts and benefits of Auto-Encoding and GAN and naturally extends them to the settings of learning a both discriminative and generative representation for multi-class and multi-dimensional real-world data. Our extensive experiments on many benchmark imagery datasets demonstrate tremendous potential of this new closed-loop formulation: we notice that the so learned features of different classes are explicitly mapped onto approximately independent principal subspaces in the feature space; and diverse visual attributes within each class are modeled by the independent principal components within each subspace. This work opens many deep mathematical problems regarding learning submanifolds in high-dimensional spaces as well as suggests potential computational mechanisms about how memory can be formed through a purely internal close-loop process."
 },
 {
-    "name" : "Damian Battaglia",
-    "last_name": "Battaglia",
-    "affiliation": "University of Strasbourg, France",
-    "title" : "Neuronal dynamics and dynamics of information",
-    "url" : "https://www.usias.fr/en/fellows/fellows-2020/demian-battaglia/",
-    "image_src": "assets/img/Damian_Battaglia.jpg",
-    "field": "Neuroscience",
-    "date": "13.12.2021",
-    "day": "Monday",
-    "time": "1800",
-     "abstract": ""
+    "name" : "Yonina Elder",
+    "last_name": "Elder",
+    "affiliation": "University of California, Berkeley, CL, UA",
+    "title" : "Model Based Deep Learning: Applications to Imaging and Communications",
+    "url" : "https://www.wisdom.weizmann.ac.il/~yonina/YoninaEldar/",
+    "image_src": "assets/img/yonina.jpeg",
+    "field": "AI",
+    "date": "14.12.2021",
+    "day": "Tuesday",
+    "time": "1640",
+     "abstract": "Deep neural networks provide unprecedented performance gains in many real-world problems in signal and image processing. Despite these gains, the future development and practical deployment of deep networks are hindered by their black-box nature, i.e., a lack of interpretability and the need for very large training sets. On the other hand, signal processing and communications have traditionally relied on classical statistical modeling techniques that utilize mathematical formulations representing the underlying physics, prior information and additional domain knowledge. Simple classical models are useful but sensitive to inaccuracies and may lead to poor performance when real systems display complex or dynamic behavior. Here we introduce various approaches to model based learning which merge parametric models with optimization tools leading to efficient, interpretable networks from reasonably sized training sets. We will consider examples of such model-based deep networks to image deblurring, image separation, super resolution in ultrasound and microscopy, efficient communications systems, and finally we will see how model-based methods can also be used for efficient diagnosis of COVID19 using X-ray and ultrasound."
+},
+{
+    "name" : "Michael Felsberg",
+    "last_name": "Felsberg",
+    "affiliation": "Linköpings universitet, Sweden",
+    "title" : "TBA",
+    "url" : "https://liu.se/medarbetare/micfe03",
+    "image_src": "assets/img/Felsberg.jpeg",
+    "field": "AI",
+    "date": "14.12.2021",
+    "day": "Tuesday",
+    "time": "1720",
+     "abstract": "TBA. "
 },
 {
     "name" : "Michael London",
@@ -78,32 +195,6 @@
      "abstract": "In this talk, the following (subset of) oversimplifications in assessing plasticity and computing in the brain will be discussed. Some approaches over the decades to account for these oversimplifications will be presented. Oversimplification #1. Neurons are simple algebraic summation units with a threshold nonlinearity. Oversimplification #2. Neural circuits are made of repeating homogeneous computational units. Oversimplification #3. Learning and memory in biological systems is accomplished exclusively through synaptic changes. Oversimplification #4. There is a unique solution to how biological learning is accomplished, and our goal is to find that solution. Oversimplification #5. Glial cells are glue. Other oversimplifications. Ignore the following across all scales of analysis: (i) Feedback loops (ii) Stochasticity and noise (iii) Continual adaptation (iv) Pleiotropy (v) Secondary and off-target effects of perturbations (vi) Subject-to-subject variability (vii) Plasticity-Stability balance (viii) Catastrophic forgetting."
 },
 {
-    "name" : "Partha Mitra",
-    "last_name": "Mitra",
-    "affiliation": "Cold Spring Harbor Laboratory, US",
-    "title" : "Fitting elephants in modern Machine Learning: Interpolating noisy data and getting away with it",
-    "url" : "http://brainarchitecture.org/",
-    "image_src": "assets/img/Partha_Mitra.jpeg",
-    "field": "Neuroscience",
-    "date": "14.12.2021",
-    "day": "Tuesday",
-    "Time": "1340",
-     "abstract": ""
-},
-{
-    "name" : "Ran Levi",
-    "last_name": "Levi",
-    "affiliation": "University of Aberdeen, Scotland, UK",
-    "title" : "TBA",
-    "url" : "https://www.abdn.ac.uk/ncs/profiles/r.levi/",
-    "image_src": "assets/img/Ran_Levi.jpeg",
-    "field": "Topology",
-    "date": "13.12.2021",
-    "day": "Monday",
-    "Time": "1340",
-     "abstract": ""
-},
-{
     "name" : "Anita Disney",
     "last_name": "Disney",
     "affiliation": "Duke University, US",
@@ -141,66 +232,5 @@
     "date": "15.12.2021",
     "day": "Wednesday",
     "Time": "1720",
-},
-
-{
-    "name" : "Mackenzie Mathis",
-    "last_name": "Mathis",
-    "affiliation": "EPFL, Switzerland",
-    "title" : "Understand the brain through the lens of behavior",
-    "url" : "http://www.mackenziemathislab.org/",
-    "image_src": "assets/img/Mackenzie_Mathis.jpeg",
-    "field": "Neurosciece, AI",
-     "abstract": "I will discuss our latest research program merging neuroscience and computer vision for the study of the brain. In particular, I will discuss DeepLabCut, our tool for animal pose estimation. "
-},
-{
-    "name" : "Daniela Egas Santander",
-    "last_name": "Santander",
-    "affiliation": "EPFL, Switzerland",
-    "title" : "Nerve theorems for fixed points of neural networks",
-    "url" : "https://opc.mfo.de/detail?photo_id=19248",
-    "image_src": "assets/img/Daniela_Egas.jpeg",
-    "field": "Topology",
-     "abstract": ""
-},
-{
-    "name" : "Lars Kai Hansen",
-    "last_name": "Hansen",
-    "affiliation": "Technical University of Denmark, Denmark",
-    "title" : "Machine learning for EEG based brain state monitoring",
-    "url" : "http://cogsys.imm.dtu.dk/staff/lkhansen/lkhansen.html",
-    "image_src": "assets/img/lars_kai_hansen.jpeg",
-    "field": "AI",
-    "abstract": "Electroencephalography (EEG) is a widely used non-invasive technology for brain monitoring. The EEG signal is complex and confounded by artifacts and EEG analysis is challenging. I will review progress in machine learning for EEG analysis and discuss our efforts to push the limits to EEG based brain state monitoring."
-},
- {
-    "name" : "Carina Curto",
-    "last_name": "Curto",
-    "affiliation": "The Pennsylvania State University",
-    "title" : "TBA",
-    "url" : "http://www.personal.psu.edu/cpc16/",
-    "image_src": "assets/img/carina_curto.jpeg",
-    "field": "Maths",
-     "abstract": ""
-},
- {
-    "name" : "Antonio Marquez",
-    "last_name": "Marquez",
-    "affiliation": "King Juan Carlos University Camino del Molino, Madrid, Spain",
-    "title" : "Connecting the dots: Identifying Network Structure using Graph Signal Processing",
-    "url" : "https://tsc.urjc.es/~amarques/",
-    "image_src": "assets/img/antonio_marquez.jpeg",
-    "field": "AI",
-     "abstract": "The talk provides an overview of graph signal processing (GSP)-based methods designed to learn an unknown network from nodal observations. Using signals to learn a graph is a central problem in network science and statistics, with results going back more than 50 years. The main goal of the talk is threefold: i) explaining in detail fundamental GSP-based methods and comparing those with classical methods in statistics, ii) putting forth a number of GSP-based formulations and algorithms able to address scenarios with a range of different operating conditions, and iii) briefly introducing generalizations to more challenging setups, including multi-layer graphs and learning in the presence of hidden nodal variables. Our graph learning algorithms will be designed as solutions to judiciously formulated constrained-optimization sparse-recovery problems. Critical to this approach is the codification of GSP concepts such as signal smoothness and graph stationarity into tractable constraints. "
-},
- {
-    "name" : "Michael Felsberg",
-    "last_name": "Felsberg",
-    "affiliation": "Linköpings universitet, Sweden",
-    "title" : "TBA",
-    "url" : "https://liu.se/medarbetare/micfe03",
-    "image_src": "assets/img/Felsberg.jpeg",
-    "field": "AI",
-     "abstract": "TBA. "
 }
 ]
