@@ -5,14 +5,14 @@
   .schedule {
     display: grid;
     grid-gap: 1em;
-    grid-template-rows: [days] auto [time-0930] auto [time-1000] auto [time-1030] auto [time-1100] auto [time-1130] auto [time-1200] auto [time-1230] auto [time-1300] auto [time-1330] auto [time-1400] auto [time-1430] auto [time-1500] auto [time-1530] auto [time-1600] auto [time-1630] auto [time-1700] auto [time-1730] auto [time-1800] auto [time-1830] auto;
+    grid-template-rows: [days] auto [time-0930] auto [time-1000] auto [time-1030] auto [time-1100] auto [time-1130] auto [time-1200] auto [time-1230] auto [time-1300] auto [time-1340] auto [time-1330] auto [time-1400] auto [time-1420] auto [time-1430] auto [time-1500] auto [time-1530] auto [time-1600] auto [time-1630] auto [time-1640] auto [time-1700] auto [time-1720] auto [time-1730] auto [time-1800] auto [time-1830] auto [time-1840] auto;
     /* Note 1:
     Use 24hr time for gridline names for simplicity
 
     Note 2: Use "auto" instead of "1fr" for a more compact schedule where height of a slot is not proportional to the session length. Implementing a "compact" shortcode attribute might make sense for this!
     Try 0.5fr for more compact equal rows. I don't quite understand how that works :)
     */
-    grid-template-columns: [times] 5em [day-1-start] 1fr [day-1-end day-2-start] 1fr [day-2-end day-3-start] 1fr [day-3-end day-4-start] 1fr [day-4-end];
+    grid-template-columns: [times] 6em [day-1-start] 4.0fr [day-1-end day-2-start] 4.0fr [day-2-end day-3-start] 4.0fr [day-3-end day-4-start] 1fr [day-4-end];
   }
 }
 .time-slot {
@@ -61,8 +61,8 @@ body {
 
 .session {
   padding: 0.5em;
-  border-radius: 2px;
-  font-size: 16px;
+  border-radius: 12px;
+  font-size: 14px;
   box-shadow: rgba(255, 255, 255, 0.6) 1px 1px 0, rgba(0, 0, 0, 0.3) 4px 4px 0;
 }
 
