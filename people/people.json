@@ -93,15 +93,15 @@
 {
     "name" : "Carina Curto",
     "last_name": "Curto",
-    "affiliation": "The Pennsylvania State University",
-    "title" : "TBA",
+    "affiliation": "The Pennsylvania State University, PA, USA",
+    "title" : "Graph rules and topological insights for inhibitory network dynamics",
     "url" : "http://www.personal.psu.edu/cpc16/",
     "image_src": "assets/img/carina_curto.jpeg",
     "field": "Maths",
     "date": "13.12.2021",
     "day": "Monday",
     "time": "1600",
-     "abstract": ""
+     "abstract": "Many networks in the nervous system possess an abundance of inhibition, which serves to shape and stabilize neural dynamics. The neurons in such networks exhibit intricate patterns of connectivity, whose structure controls the allowed patterns of neural activity. In this talk, we will focus on inhibitory threshold-linear networks whose dynamics are dictated by an underlying directed graph. We'll introduce a set of parameter-independent graph rules that enable us to predict features of the dynamics from properties of the graph. Graph rules also lead us to consider some natural topological structures, such as nerves and sheaves, stemming from various graph covers. Our results provide a direct link between the structure and function of inhibitory networks, and yield new insights into how connectivity may shape dynamics in real neural circuits. We will illustrate this with some applications to central pattern generator circuits and related examples of neural computation."
 },
 {
     "name" : "Daniela Egas Santander",
