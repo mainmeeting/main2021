@@ -36,7 +36,7 @@
     "date": "13.12.2021",
     "day": "Monday",
     "time": "1000",
-     "abstract": ""
+     "abstract": "Artificial Neural Network (ANN) is in the core of modern AI. In this introduction, we will discuss the structure of ANN, and argue that the main motivation is due to engineering convenience. There is a trade-off between arguments motivated by biological inspiration and engineering convenience. We will mainly use Feedforward structure for our discussion."
 },
 {
     "name" : "Martina Scolamiero",
